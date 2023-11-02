@@ -1,3 +1,5 @@
-# Sharonna.github.io
 
-click to visit website:https://nalish.github.io/
+# [My portfolio](nalish.github.io)
+
+Visit my portfolio [here](nalish.github.io)
+
