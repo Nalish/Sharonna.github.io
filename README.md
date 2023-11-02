@@ -1,5 +1,3 @@
+# [My portfolio](https://nalish.github.io)
 
-# [My portfolio](nalish.github.io)
-
-Visit my portfolio [here](nalish.github.io)
-
+Visit my portfolio [here](https://nalish.github.io)
